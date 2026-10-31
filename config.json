@@ -1,0 +1,119 @@
+{
+  "code": "ASC",
+  "title": "SMASH ASC",
+  "school": "안동과학대",
+  "fullName": "안동과학대학교",
+  "campusName": "안동과학대학교",
+  "tagline": "안동과학대를 부셔 (시험기간 스트레스 해소)",
+  "description": "안동과학대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 안동과학대학교 3D 화면과 SMASH ASC 제목",
+  "url": "https://hong-iron.github.io/SMASH-ASC/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 792959528
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        36.5903179,
+        128.6538541
+      ],
+      "n": "정문(U)동",
+      "why": "항공사진에 없음 — 정문(U)동 대장 기록이 운동장 북쪽 주차장 옆 풀숲에 찍혀 있는데 항공사진에는 지붕이 없고, 학교 안내도의 실제 정문은 남쪽 진입로 끝에 있다."
+    },
+    {
+      "at": [
+        36.59115,
+        128.6557421
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 연못 옆 회색 건물 남쪽 주차장 가장자리의 ㄱ자 잔디 화단이고 항공사진에 지붕이 보이지 않는다."
+    },
+    {
+      "at": [
+        36.5898273,
+        128.6530262
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — P동 주차장과 육상 트랙 사이에 트랙을 따라 휜 초록 띠인데 항공사진에는 나무와 풀만 보이고 지붕이나 그림자가 없다."
+    },
+    {
+      "at": [
+        36.5889908,
+        128.6552092
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 도서관 남쪽 비탈의 맨땅 자리이고 항공사진과 학교 안내도 사진 모두에서 서 있는 건물이 없다."
+    }
+  ],
+  "look": {
+    "본관": {
+      "style": "stone",
+      "wall": "#dfe4e6",
+      "glass": "#3a5a80",
+      "frame": "#e8ecee",
+      "roof": "#3d5878",
+      "hip": true
+    },
+    "간호관": {
+      "style": "ribbon",
+      "wall": "#dfe3e6",
+      "glass": "#587795",
+      "frame": "#c6ced6"
+    },
+    "정보관": {
+      "style": "stone",
+      "wall": "#e8eaec",
+      "glass": "#587079",
+      "frame": "#cdd3d8"
+    },
+    "양경관": {
+      "style": "stone",
+      "wall": "#eef2f1",
+      "glass": "#6a8590",
+      "frame": "#dce2e0"
+    },
+    "과학관": {
+      "style": "stone",
+      "wall": "#dce3eb",
+      "glass": "#6a7480",
+      "frame": "#c7cbd0"
+    },
+    "사회관": {
+      "style": "stone",
+      "wall": "#d8dde2",
+      "glass": "#57756c",
+      "frame": "#c0c8cc"
+    },
+    "학계도서관": {
+      "style": "brick",
+      "wall": "#b36a63",
+      "glass": "#3c3f48",
+      "frame": "#e2ddd8"
+    },
+    "안동국민체육센터": {
+      "style": "glass",
+      "wall": "#eef1f3",
+      "glass": "#4c5a6c",
+      "frame": "#f4f6f7"
+    },
+    "함백생활관": {
+      "style": "dorm",
+      "wall": "#e6ecea",
+      "glass": "#5f7884",
+      "frame": "#9fcfb5",
+      "roof": "#7a4a5c",
+      "hip": true
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
